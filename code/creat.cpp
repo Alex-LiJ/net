@@ -4,8 +4,9 @@
 using namespace std;
 
 
-void creat::ArrayGraph_add()//添加顶点
+void creat::ArrayGraph_add()//添加顶点罗宇轩
 {
+	
 	int n = m.getsize();
 	m.setsize(n + 1);
 	sever a;
